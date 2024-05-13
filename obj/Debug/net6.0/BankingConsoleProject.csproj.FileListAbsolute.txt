@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\BankingConsoleProject\obj\Debug\net6.0\BankingConsoleProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\BankingConsoleProject\obj\Debug\net6.0\BankingConsoleProject.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\BankingConsoleProject\obj\Debug\net6.0\BankingConsoleProject.AssemblyInfo.cs
+C:\Users\HP\Desktop\BankingConsoleProject\obj\Debug\net6.0\BankingConsoleProject.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\BankingConsoleProject\bin\Debug\net6.0\BankingConsoleProject.exe
+C:\Users\HP\Desktop\BankingConsoleProject\bin\Debug\net6.0\BankingConsoleProject.deps.json
+C:\Users\HP\Desktop\BankingConsoleProject\bin\Debug\net6.0\BankingConsoleProject.runtimeconfig.json
+C:\Users\HP\Desktop\BankingConsoleProject\bin\Debug\net6.0\BankingConsoleProject.dll
+C:\Users\HP\Desktop\BankingConsoleProject\bin\Debug\net6.0\BankingConsoleProject.pdb
+C:\Users\HP\Desktop\BankingConsoleProject\obj\Debug\net6.0\BankingConsoleProject.dll
+C:\Users\HP\Desktop\BankingConsoleProject\obj\Debug\net6.0\refint\BankingConsoleProject.dll
+C:\Users\HP\Desktop\BankingConsoleProject\obj\Debug\net6.0\BankingConsoleProject.pdb
+C:\Users\HP\Desktop\BankingConsoleProject\obj\Debug\net6.0\BankingConsoleProject.genruntimeconfig.cache
+C:\Users\HP\Desktop\BankingConsoleProject\obj\Debug\net6.0\ref\BankingConsoleProject.dll
